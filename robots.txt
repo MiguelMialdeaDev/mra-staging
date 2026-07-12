@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://robotpisopequeno.es/sitemap-index.xml

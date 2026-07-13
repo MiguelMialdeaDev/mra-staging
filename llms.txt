@@ -1,16 +1,51 @@
 # RobotPisoPequeño.es
 
-> Guía independiente de robots aspirador para pisos pequeños (menos de 40 m²) en España. Comparamos modelos por autonomía, nivel de ruido, capacidad de fregado y navegación, con recomendaciones honestas pensadas para espacios reducidos. Web independiente: ninguna marca paga por aparecer; nos financiamos con el Programa de Afiliados de Amazon.
+> Guía independiente de robots aspirador para pisos pequeños (menos de 40 m²) en España. Comparamos por autonomía, ruido, fregado y navegación, con recomendaciones honestas. Nos financiamos con el Programa de Afiliados de Amazon.
 
 ## Comparativas por necesidad
-- [Mejor robot aspirador barato para piso pequeño](https://robotpisopequeno.es/robot-aspirador-barato/): modelos por debajo de 150€ que de verdad cumplen en menos de 40 m².
-- [Mejor robot aspirador que friega](https://robotpisopequeno.es/robot-aspirador-con-fregona/): aspiran y friegan a la vez; qué esperar del fregado real.
-- [Mejor robot aspirador para pelo de mascotas](https://robotpisopequeno.es/robot-aspirador-para-mascotas/): cepillo de goma antienredos y succión alta para perro y gato.
-- [Mejor robot aspirador con láser (LiDAR)](https://robotpisopequeno.es/robot-aspirador-con-laser/): navegación con mapeo y zonas prohibidas; cuándo compensa.
+- [Baratos que cumplen en <40 m²](https://robotpisopequeno.es/robot-aspirador-barato/)
+- [Aspiran y friegan](https://robotpisopequeno.es/robot-aspirador-con-fregona/)
+- [Pelo de mascotas (antienredos)](https://robotpisopequeno.es/robot-aspirador-para-mascotas/)
+- [Con láser/LiDAR y mapeo](https://robotpisopequeno.es/robot-aspirador-con-laser/)
+- [Los más silenciosos (por dB)](https://robotpisopequeno.es/robot-aspirador-silencioso/)
+- [Con base de autovaciado](https://robotpisopequeno.es/robot-aspirador-con-autovaciado/)
+- [Robots Cecotec](https://robotpisopequeno.es/robot-aspirador-cecotec/)
 
-## Guía y ranking
-- [Cómo elegir robot aspirador para piso pequeño](https://robotpisopequeno.es/guia-piso-pequeno/): qué importa de verdad en menos de 40 m² y errores comunes.
-- [Top 10 robots aspirador para piso pequeño](https://robotpisopequeno.es/ranking/): ranking completo con enlace a cada review.
+## Reviews de modelos
+- [Lefant M210P](https://robotpisopequeno.es/reviews/lefant-m210p/): nota 5/5.
+- [Roborock Q7 Max](https://robotpisopequeno.es/reviews/roborock-q7-max/): nota 5/5.
+- [Xiaomi Robot Vacuum X10](https://robotpisopequeno.es/reviews/xiaomi-robot-vacuum-x10/): nota 5/5.
+- [Cecotec Conga 2290 Ultra](https://robotpisopequeno.es/reviews/cecotec-conga-2290-ultra/): nota 4/5.
+- [Dreame D10s](https://robotpisopequeno.es/reviews/dreame-d10s/): nota 4/5.
+- [Eufy (Anker) RoboVac 11S Max](https://robotpisopequeno.es/reviews/eufy-robovac-11s-max/): nota 4/5.
+- [Lefant M2 Plus](https://robotpisopequeno.es/reviews/lefant-m2-plus/): nota 4/5.
+- [Lefant M330 Pro](https://robotpisopequeno.es/reviews/lefant-m330-pro/): nota 4/5.
+- [iRobot Roomba Combo Essential](https://robotpisopequeno.es/reviews/roomba-combo-essential/): nota 4/5.
+- [TP-Link Tapo RV10 Lite](https://robotpisopequeno.es/reviews/tapo-rv10-lite/): nota 4/5.
+- [Xiaomi Robot Vacuum S12](https://robotpisopequeno.es/reviews/xiaomi-robot-vacuum-s12/): nota 4/5.
 
-## Sobre el proyecto
-- [Quiénes somos y cómo analizamos](https://robotpisopequeno.es/quienes-somos/): criterios de análisis, independencia y transparencia sobre cómo ganamos dinero.
+## Artículos y guías
+- [¿Cada cuánto hay que pasar el robot aspirador? (guía práctica)](https://robotpisopequeno.es/articulos/cada-cuanto-pasar-robot-aspirador/)
+- [Cecotec vs Xiaomi vs Roborock: qué marca comprar para piso pequeño](https://robotpisopequeno.es/articulos/cecotec-vs-xiaomi-vs-roborock/)
+- [¿El robot aspirador sirve para alfombras? Lo que debes saber](https://robotpisopequeno.es/articulos/robot-aspirador-alfombras/)
+- [Robot aspirador y pelo de mascotas: cómo evitar que se atasque](https://robotpisopequeno.es/articulos/robot-aspirador-pelo-mascotas-atasco/)
+- [¿Merece la pena un robot aspirador en un piso pequeño?](https://robotpisopequeno.es/articulos/robot-aspirador-piso-pequeno-vale-la-pena/)
+- [Cuánto ruido hace un robot aspirador: guía de decibelios](https://robotpisopequeno.es/articulos/cuanto-ruido-hace-robot-aspirador-decibelios/)
+- [Robot aspirador o aspirador escoba en un piso pequeño: ¿cuál compensa?](https://robotpisopequeno.es/articulos/robot-aspirador-o-escoba-electrica-piso-pequeno/)
+- [Robots aspirador y suelos oscuros o negros: por qué a veces fallan](https://robotpisopequeno.es/articulos/robot-aspirador-suelos-oscuros-negros/)
+- [¿Merece la pena un robot con autovaciado en un piso pequeño?](https://robotpisopequeno.es/articulos/merece-la-pena-robot-con-autovaciado/)
+- [Robot aspirador que no se enreda con cables ni flecos de alfombra](https://robotpisopequeno.es/articulos/robot-aspirador-que-no-se-enreda-cables/)
+- [Cómo acertar con el robot aspirador en Black Friday (y evitar falsos chollos)](https://robotpisopequeno.es/articulos/mejor-robot-aspirador-black-friday/)
+- [Cómo limpiar y mantener el robot aspirador para que dure](https://robotpisopequeno.es/articulos/como-limpiar-mantener-robot-aspirador/)
+- [Cuánta luz gasta un robot aspirador al mes (con el cálculo paso a paso)](https://robotpisopequeno.es/articulos/cuanta-luz-gasta-robot-aspirador-al-mes/)
+
+## Páginas clave
+- [Cómo elegir robot para piso pequeño](https://robotpisopequeno.es/guia-piso-pequeno/)
+- [Top 10 (ranking completo)](https://robotpisopequeno.es/ranking/)
+- [Guía Black Friday (evergreen)](https://robotpisopequeno.es/robot-aspirador-black-friday/)
+- [Quiénes somos y cómo analizamos](https://robotpisopequeno.es/quienes-somos/)
+
+## Datos clave
+- Modelos analizados: 11 · Artículos: 13
+- Independiente: ninguna marca paga por aparecer.
+- Monetización: Programa de Afiliados de Amazon (enlaces rel="sponsored"), sin coste extra para el lector.
